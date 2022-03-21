@@ -1,0 +1,37 @@
+[
+  {
+    "id": "6238a6c7f9f6bad32942b53b",
+    "age": 49,
+    "name": "Rochelle Foster",
+    "gender": "female",
+    "money": 264
+  },
+  {
+    "id": "6238a6c7099ac0ed489d1242",
+    "age": 31,
+    "name": "Key Simon",
+    "gender": "male",
+    "money": 681
+  },
+  {
+    "id": "6238a6c7cf1ead75272e3beb",
+    "age": 24,
+    "name": "Montoya Bryan",
+    "gender": "male",
+    "money": 521
+  },
+  {
+    "id": "6238a6c78a1c0fce9f82914a",
+    "age": 39,
+    "name": "Baker Matthews",
+    "gender": "male",
+    "money": 635
+  },
+  {
+    "id": "6238a6c723a7f9466149be5d",
+    "age": 24,
+    "name": "Janelle Kidd",
+    "gender": "female",
+    "money": 477
+  }
+]

@@ -1,2 +1,2 @@
 # Getting Started with Create React App
-## React paths and handel
+## React storage, paths and handel
